@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+test.pdf
+test.docx
+test_sample.pdf
+test_sample.docx
+test_assets/
+ui_initial.png
